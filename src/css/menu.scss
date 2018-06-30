@@ -1,0 +1,51 @@
+.appetizers {
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  border: solid 2px #C3B7A0;
+}
+.appwidth {
+  width: 80%;
+}
+
+.apps {
+  display: flex;
+  justify-content: space-between;
+}
+.grouped {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.line {
+  display: flex;
+  width: 80%;
+  padding: 5px;
+}
+
+.food {
+  flex-grow: 3;
+  padding: 8px;
+}
+ .cost {
+   flex-grow: 1;
+   padding: 8px;
+   justify-self: center;
+   text-align: right;
+ }
+
+
+ .foodImg {
+   display: flex;
+ }
+
+ .foodie {
+   width: 300px;
+   height: 300px;
+   padding: 3px;
+
+ }

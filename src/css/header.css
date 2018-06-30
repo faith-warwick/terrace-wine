@@ -1,0 +1,16 @@
+h2 {
+  font-family: 'Cinzel', serif;
+  font-size: 70px;
+  letter-spacing: 10px;
+  border-bottom: 2px solid #8D674C;
+  display: inline-block;
+  line-height: .85;
+  color: #9B8A69; }
+
+.titleTag {
+  font-size: 30px;
+  letter-spacing: 4px;
+  margin-top: -50px;
+  color: #C3B7A0; }
+
+/*# sourceMappingURL=header.css.map */

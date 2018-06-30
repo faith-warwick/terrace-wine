@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,MAAO;EACL,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,GAAG;EACnB,WAAW,EAAE,MAAM;EACnB,eAAe,EAAE,YAAY;EAC7B,KAAK,EAAE,IAAI;;AAGb,CAAE;EACA,OAAO,EAAE,GAAG;;AAGd,GAAI;EACF,aAAa,EAAE,IAAI;;AAGrB,QAAS;EACP,eAAe,EAAE,MAAM",
+"sources": ["feet.scss"],
+"names": [],
+"file": "feet.css"
+}
